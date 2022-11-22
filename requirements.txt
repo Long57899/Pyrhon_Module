@@ -1,0 +1,8 @@
+from aplication.salary import calculate_salary
+from aplication.db import people
+from datetime import datetime
+
+python3 -m pip install vk_api
+import vk_api
+
+
